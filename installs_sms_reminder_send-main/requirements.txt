@@ -1,0 +1,4 @@
+opsgenie-sdk >= 2, < 3
+smartsheet-python-sdk >= 3, < 4
+phonenumbers >= 8, < 9
+pydantic >= 1.10, < 2
